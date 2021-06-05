@@ -250,3 +250,4 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 16;brainfxck;Application\brainfxck.png;Application\brainfxck.hex;;;;red-hara
 16;SetSystemEEPROM;Application\SetSystemEEPROM.png;Application\SetSystemEEPROM.hex;;;;MLXXXp
 16;EEPROMEditor;Application\EEPROMEditor.png;Application\EEPROMEditor.hex;;;;filmote
+16;welcome;Application\welcome.png;Application\welcome.hex;;;;bateske
