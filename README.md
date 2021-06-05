@@ -1,4 +1,4 @@
-# arduboyfx-myflashcard
+# arduboyfx-myflashcart
 Personal ArduboyFx collection 
 
 
