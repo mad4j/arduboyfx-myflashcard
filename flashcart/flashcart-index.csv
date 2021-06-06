@@ -56,6 +56,10 @@ List;Discription;Title screen;Hex file;Data file;Save file;Likes;Developer
 3;Ohyougonnadie;Arcade\oygd.png;Arcade\oygd.hex;;;;
 3;Tinydepth;Action\Tinydepth.png;Action\Tinydepth.hex;;;;akkera102
 3;PrizeFrenzy;Puzzle\prizefrenzy.png;Puzzle\prizefrenzy.hex;;;;madya121
+3;LodeRunner1;Arcade\LodeRunner1.png;Arcade\LodeRunner1.hex;;;;filmote
+3;LodeRunner2;Arcade\LodeRunner2.png;Arcade\LodeRunner2.hex;;;;filmote
+3;LodeRunner3;Arcade\LodeRunner3.png;Arcade\LodeRunner3.hex;;;;filmote
+3;LodeRunner4;Arcade\LodeRunner4.png;Arcade\LodeRunner4.hex;;;;filmote
 4;Runner;category-screens\Runner.png;;;;;
 4;hollowseeker;Arcade\hollowseeker.png;Arcade\hollowseeker.hex;;;;obono
 4;Chromedino;Arcade\Chromedino.png;Arcade\Chromedino.hex;;;;flaki
