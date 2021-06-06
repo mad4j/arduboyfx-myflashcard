@@ -1,6 +1,19 @@
 # arduboyfx-myflashcart
 Personal ArduboyFx collection 
 
+# Commands
+
+#### Build flash image
+
+```
+python .\flashcart-builder.py .\flashcart\flashcart-index.csv
+```
+
+#### Write flash image to ArduboyFX
+
+```
+python .\flashcart-writer.py .\flashcart\flashcart-image.bin
+```
 
 # References
 #### Mr Blinky Python utilities:
