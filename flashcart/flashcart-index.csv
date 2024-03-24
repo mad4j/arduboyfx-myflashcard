@@ -74,7 +74,7 @@ List ;Discription          ;Title screen                      ;Hex file         
    4 ;Fanboat              ;Arcade\Fanboat.png                ;Arcade\Fanboat.hex                ;          ;          ;      ;fanboat
    4 ;YouWontSurvive       ;Arcade\YouWontSurvive.png         ;Arcade\YouWontSurvive.hex         ;          ;          ;      ;AstroAndre
    4 ;SFCave               ;Arcade\SFCave.png                 ;Arcade\SFCave.hex                 ;          ;          ;      ;Slade1972
-   5 ;CursedMansion1300    ;Arcade\CursedMansion1300.png      ;Arcade\CursedMansion1300.hex      ;          ;          ;      ;ClaudioBelato
+   4 ;CursedMansion1300    ;Arcade\CursedMansion1300.png      ;Arcade\CursedMansion1300.hex      ;          ;          ;      ;ClaudioBelato
    5 ;Platformer           ;category-screens\Platformer.png   ;                                  ;          ;          ;      ;
    5 ;CasteBoy             ;Platformer\CastleBoy.png          ;Platformer\CastleBoy.hex          ;          ;          ;      ;jlauener
    5 ;SanSan               ;Action\Sansan.png                 ;Action\Sansan.hex                 ;          ;          ;      ;chame
@@ -116,7 +116,8 @@ List ;Discription          ;Title screen                      ;Hex file         
    7 ;2048                 ;Puzzle\2048.png                   ;Puzzle\2048.hex                   ;          ;          ;      ;Yuki
    7 ;1010                 ;Puzzle\1010.png                   ;Puzzle\1010.hex                   ;          ;          ;      ;
    7 ;termtwirl            ;Puzzle\termtwirl.png              ;Puzzle\termtwirl.hex              ;          ;          ;      ;Corruptio
-   8 ;CyberHack            ;Puzzle\Cyberhack_V10.png          ;Cyberhack_V10.hex                 ;          ;          ;      ;Fimote and Vampirics
+   7 ;CyberHack            ;Puzzle\Cyberhack_V10.png          ;Cyberhack_V10.hex                 ;          ;          ;      ;Fimote and Vampirics
+   7 ;Tetroi               ;Puzzle\Tetroi.png                 ;Puzzle\Tetroi.hex                 ;          ;          ;      ;RogerBuehler
    8 ;Skill                ;category-screens\Skill.png        ;                                  ;          ;          ;      ;
    8 ;curse                ;Puzzle\curse.png                  ;Puzzle\curse.hex                  ;          ;          ;      ;PressPlayOnTape
    8 ;KnightMove           ;Puzzle\knightmove.png             ;Puzzle\knightmove.hex             ;          ;          ;      ;obono
@@ -156,7 +157,6 @@ List ;Discription          ;Title screen                      ;Hex file         
    9 ;Dominoes             ;Puzzle\Dominoes.png               ;Puzzle\Dominoes.hex               ;          ;          ;      ;PressPlayOnTape
    9 ;Yatzy                ;Puzzle\Yatzy.png                  ;Puzzle\Yatzy.hex                  ;          ;          ;      ;shdwwzrd
    9 ;Cripplemronion       ;Puzzle\Cripplemronion.png         ;Puzzle\Cripplemronion.hex         ;          ;          ;      ;fentonc
-   9 ;Tetroi               ;Puzzle\Tetroi.png                 ;Puzzle\Tetroi.hex                 ;          ;          ;      ;RogerBuehler
   10 ;Racing               ;category-screens\Racing.png       ;                                  ;          ;          ;      ;
   10 ;Arddriving           ;Racing\Arddriving.png             ;Racing\Arddriving.hex             ;          ;          ;      ;Rem
   10 ;ArduRacer            ;Racing\ArduRacer.png              ;Racing\ArduRacer.hex              ;          ;          ;      ;tonym128
